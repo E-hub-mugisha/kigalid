@@ -1,0 +1,161 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticonc810.ttf?34aa5ea16c3da854664c51c58bac071f") format("truetype"),
+url("flaticonc810.woff?34aa5ea16c3da854664c51c58bac071f") format("woff"),
+url("flaticonc810.woff2?34aa5ea16c3da854664c51c58bac071f") format("woff2"),
+url("flaticonc810.eot?34aa5ea16c3da854664c51c58bac071f#iefix") format("embedded-opentype"),
+url("flaticonc810.svg?34aa5ea16c3da854664c51c58bac071f#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-view:before {
+    content: "\f101";
+}
+.flaticon-refresh:before {
+    content: "\f102";
+}
+.flaticon-heart:before {
+    content: "\f103";
+}
+.flaticon-visibility:before {
+    content: "\f104";
+}
+.flaticon-shopping-cart:before {
+    content: "\f105";
+}
+.flaticon-like:before {
+    content: "\f106";
+}
+.flaticon-compare:before {
+    content: "\f107";
+}
+.flaticon-quotation:before {
+    content: "\f108";
+}
+.flaticon-email:before {
+    content: "\f109";
+}
+.flaticon-call:before {
+    content: "\f10a";
+}
+.flaticon-location:before {
+    content: "\f10b";
+}
+.flaticon-comment:before {
+    content: "\f10c";
+}
+.flaticon-info:before {
+    content: "\f10d";
+}
+.flaticon-remove:before {
+    content: "\f10e";
+}
+.flaticon-link:before {
+    content: "\f10f";
+}
+.flaticon-speech-bubble:before {
+    content: "\f110";
+}
+.flaticon-video:before {
+    content: "\f111";
+}
+.flaticon-picture:before {
+    content: "\f112";
+}
+.flaticon-picture-1:before {
+    content: "\f113";
+}
+.flaticon-project-status:before {
+    content: "\f114";
+}
+.flaticon-wine:before {
+    content: "\f115";
+}
+.flaticon-wine-bottle:before {
+    content: "\f116";
+}
+.flaticon-wine-1:before {
+    content: "\f117";
+}
+.flaticon-wine-2:before {
+    content: "\f118";
+}
+.flaticon-wine-3:before {
+    content: "\f119";
+}
+.flaticon-wine-bottles:before {
+    content: "\f11a";
+}
+.flaticon-grapes:before {
+    content: "\f11b";
+}
+.flaticon-wine-4:before {
+    content: "\f11c";
+}
+.flaticon-wine-bottle-1:before {
+    content: "\f11d";
+}
+.flaticon-wine-5:before {
+    content: "\f11e";
+}
+.flaticon-wine-6:before {
+    content: "\f11f";
+}
+.flaticon-wine-7:before {
+    content: "\f120";
+}
+.flaticon-wine-8:before {
+    content: "\f121";
+}
+.flaticon-wine-bottle-2:before {
+    content: "\f122";
+}
+.flaticon-wine-9:before {
+    content: "\f123";
+}
+.flaticon-wine-bottle-3:before {
+    content: "\f124";
+}
+.flaticon-wine-bottle-4:before {
+    content: "\f125";
+}
+.flaticon-shopping:before {
+    content: "\f126";
+}
+.flaticon-alcohol:before {
+    content: "\f127";
+}
+.flaticon-bottle:before {
+    content: "\f128";
+}
+.flaticon-wine-bottle-5:before {
+    content: "\f129";
+}
+.flaticon-rice-wine:before {
+    content: "\f12a";
+}
+.flaticon-wine-10:before {
+    content: "\f12b";
+}
+.flaticon-wine-bottles-1:before {
+    content: "\f12c";
+}
+.flaticon-wine-11:before {
+    content: "\f12d";
+}
+.flaticon-wine-12:before {
+    content: "\f12e";
+}
+.flaticon-wine-13:before {
+    content: "\f12f";
+}
